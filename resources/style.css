@@ -15,3 +15,23 @@ header a {
     color:aquamarine;
     font-size: 16px;
 }
+
+main p{
+    color: gray;
+    font-size: 21px;
+}
+
+main h1 {
+    color:white;
+}
+
+main a {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color:gray;
+    font-size: 12px;
+}
